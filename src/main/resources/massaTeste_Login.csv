@@ -1,0 +1,3 @@
+nomeTeste;email;password;nomeUsuario;resultado
+loginValido;rodrigosoares@teste.com;123456;Rodrigo Soares;positivo
+loginInvalido;rodrigosoares@teste.com;111111;Rodrigo Soares;negativo
